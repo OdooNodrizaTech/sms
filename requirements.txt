@@ -1,0 +1,4 @@
+boto3
+phonenumbers
+botocore
+unidecode

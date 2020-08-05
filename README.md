@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/OdooNodrizaTech/sms.svg?branch=12.0)](https://travis-ci.org/OdooNodrizaTech/sms)
-[![Coverage Status](https://coveralls.io/repos/github/OdooNodrizaTech/sms/badge.svg?branch=12.0)](https://coveralls.io/github/OdooNodrizaTech/sms?branch=12.0)
 [![codecov](https://codecov.io/gh/OdooNodrizaTech/sms/branch/12.0/graph/badge.svg)](https://codecov.io/gh/OdooNodrizaTech/sms)
 
 sms
